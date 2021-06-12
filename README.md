@@ -4,4 +4,4 @@ This is the implementation of the Weather Rating - a method invented by Harry Ge
 
 Source of data: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi
 
-Case study and more information: 
+Case study and more information: https://mateuszwiza.medium.com/investigating-impact-of-weather-on-customer-behavior-7160dd531cf
