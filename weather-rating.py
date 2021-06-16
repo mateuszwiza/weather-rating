@@ -80,6 +80,6 @@ def weather_rating(row):
     return rating
 
 
-process_input('data.txt')
+process_input('raw_data.txt')
 data = pd.read_csv("weather.csv", sep=",")
 data['Weather Rating'] = data.apply(lambda row: weather_rating(row), axis=1)
